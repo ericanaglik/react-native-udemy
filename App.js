@@ -1,18 +1,19 @@
 import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 
-import ListScreen from './src/screens/ListScreen';
+
 import ImageScreen from './src/screens/ImageScreen'
+import ColorScreen from './srs/screens/ColorScreen'
 
 const navigator = createStackNavigator(
   {
-    List: ListScreen,
+    Color: ColorScreen,
     Image: ImageScreen
   },
   {
-    initialRouteName: "Image",
+    initialRouteName: "Color",
     defaultNavigationOptions: {
-      title: "Pokemon"
+      title: "Colors"
     }
   }
 );
