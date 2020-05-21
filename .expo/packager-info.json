@@ -1,10 +1,10 @@
 {
-  "devToolsPort": 19002,
+  "devToolsPort": 19003,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 86062,
-  "expoServerNgrokUrl": "https://rb-ayx.anonymous.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.rb-ayx.anonymous.rn-starter.exp.direct",
-  "ngrokPid": 86072,
+  "packagerPid": 87696,
+  "expoServerNgrokUrl": "https://rb-ayx.anonymous.react-native-udemy.exp.direct",
+  "packagerNgrokUrl": "https://packager.rb-ayx.anonymous.react-native-udemy.exp.direct",
+  "ngrokPid": 87706,
   "webpackServerPort": null
 }
